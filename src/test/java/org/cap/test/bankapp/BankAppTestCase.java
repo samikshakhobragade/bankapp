@@ -20,6 +20,7 @@ public class BankAppTestCase {
 	
 	@BeforeClass
 	public static void beforeClass_method(){
+		int a=1;
 		//System.out.println("BeforeClass Method.");
 	}
 	
